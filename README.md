@@ -11,7 +11,6 @@
   <img align="center" alt="Nathan-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Nathan-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Nathan-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="Nathan-Flask" height="30" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
   <img align="center" alt="Nathan-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Nathan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
